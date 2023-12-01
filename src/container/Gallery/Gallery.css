@@ -46,7 +46,7 @@
     min-width: 301px;
     height: 447px;
     margin-right: 2rem;
-    box-shadow: rgb(187, 255, 0) -1px 5px 2px 3px;
+    box-shadow: rgb(247, 156, 156) -1px 5px 2px 3px;
 }
 
 .gallery__image-icon {
@@ -85,7 +85,7 @@
 }
 
 .gallery__arrow-icon {
-    color: var(--color-golden);
+    color: rgb(247, 156, 156);
     font-size: 2rem;
     cursor: pointer;
     background: var(--color-black);

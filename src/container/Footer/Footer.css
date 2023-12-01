@@ -37,13 +37,13 @@
 }
 
 .app__footer-links_logo {
-    color: rgb(187, 255, 0);
+    color: rgb(247, 156, 156);
 }
 
 
 .app__footer-links_work p:nth-child(2n + 1) {
     margin-bottom: 1rem;
-    color: rgb(187, 255, 0);
+    color: rgb(247, 156, 156);
 }
 
 .app__footer-links_icons {
@@ -55,7 +55,7 @@
     margin: 0.5rem;
     font-size: 24px;
     cursor: pointer;
-    color: rgb(187, 255, 0);
+    color: rgb(247, 156, 156);
 }
 
 .app__footer-links_icons svg:hover {
@@ -71,12 +71,12 @@
     font-size: 32px;
     line-height: 41.6px;
     margin-bottom: 1rem;
-    color: rgb(187, 255, 0);
+    color: rgb(247, 156, 156);
 }
 
 .footer__copyright {
     margin-top: 3rem;
-    color: rgb(187, 255, 0);
+    color: rgb(247, 156, 156);
 
 }
 
